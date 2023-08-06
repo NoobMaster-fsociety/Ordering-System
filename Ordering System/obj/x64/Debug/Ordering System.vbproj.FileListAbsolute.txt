@@ -1,0 +1,27 @@
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\bin\x64\Debug\Ordering System.exe.config
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\bin\x64\Debug\Ordering System.exe
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\bin\x64\Debug\Ordering System.pdb
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\bin\x64\Debug\Ordering System.xml
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\bin\x64\Debug\MySql.Data.dll
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.adddiscount.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Category.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.CreateNew_Product.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Form1.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.frmQTY.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Resources.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.order.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.productlist.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Tax.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.void.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering System.vbproj.GenerateResource.cache
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering System.exe
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering System.xml
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering System.pdb
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.loginvoid.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Status.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.payment.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.cancel.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.login.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.receipt.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering_System.Settings.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x64\Debug\Ordering System.vbprojResolveAssemblyReference.cache

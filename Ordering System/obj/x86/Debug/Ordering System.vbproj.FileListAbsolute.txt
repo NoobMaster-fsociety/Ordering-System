@@ -1,0 +1,39 @@
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\Ordering System.exe
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\Ordering System.pdb
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\Ordering System.xml
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\MySql.Data.dll
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering System.vbprojResolveAssemblyReference.cache
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering_System.Form1.resources
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering_System.Resources.resources
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering_System.productlist.resources
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering System.vbproj.GenerateResource.Cache
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering System.exe
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering System.xml
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering System.pdb
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\POSDatabase1.accdb
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\bin\Debug\Ordering System.exe.config
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering_System.CreateNew_Product.resources
+C:\Users\Maneclang\AppData\Local\Temporary Projects\Ordering System\obj\x86\Debug\Ordering_System.Category.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.exe
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.xml
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.pdb
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\POSDatabase1.accdb
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.pdb
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.xml
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\bin\Debug\MySql.Data.dll
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.Category.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.CreateNew_Product.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.Form1.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.Resources.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.order.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.productlist.resources
+C:\Users\Maneclang\documents\visual studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.vbproj.GenerateResource.Cache
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.vbprojAssemblyReference.cache
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.vbproj.CoreCompileInputs.cache
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering System.vbproj.CopyComplete
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.frmQTY.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.void.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.Tax.resources
+C:\Users\Maneclang\Documents\Visual Studio 2010\Projects\Ordering System\Ordering System\obj\x86\Debug\Ordering_System.adddiscount.resources
